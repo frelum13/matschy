@@ -23,9 +23,9 @@ public class Databaseconnection
     {
         final String hostname = "localhost";
         final String port = "3306";
-        final String dbname = "databaseconnection";
+        final String dbname = "demo";
         final String user = "root";
-        final String password = "1234";
+        final String password = "Lukas";
 
         try
         {
